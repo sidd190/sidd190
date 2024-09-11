@@ -1,8 +1,5 @@
 - Hi there 👋
 
-- 🔭 I’m currently working on International Olympiad in Informatics' preparation.
-- 🌱 I’m currently learning C++.
-- 👯 I’m in 10th Standard right now and I am 15 Y/O.
-- 🌱 I plan to have learned C++ and basic competitive programming by the end of the year(2022).
-- 👯 I intend to clear jee as well.
-- 🌱 I don't intend to miss my 2 chances of ioi as well.
+- I'm pretty new to everything and trying to explore things to see what captures my interest.
+  Surely a beginner to open source just yet and looking forward to having a great community interaction
+  while going through the learning process.
