@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Bansal</h1>
-<h3 align="center">A curios developer from India</h3>
+<h3 align="center">A curiuos developer from India</h3>
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sidd190?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
